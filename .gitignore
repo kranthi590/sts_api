@@ -1,4 +1,7 @@
-bin
-target 
+bin/
 mvnw.cmd
 mvnw
+.classpath
+.project
+.settings/
+target/
